@@ -1,0 +1,11 @@
+## Exercício 2
+    - Crie um site que peça ao usuário a temperatura em graus Celsius (°C), utilizando prompt(), e devolva, no console, a temperatura em graus Farenheit (°F) utilizando console.log(). A fórmula matemática para converter de °C a °F é: T(°F) = ( T(°C) × 1.8 ) + 32.
+
+### Tarefas
+    [x] Criar um arquivo HTML;
+    [x] Criar um arquivo JS;
+    [x] Fazer uma estrutura HTML;
+    [x] Perguntar a temperatura em Celsius (°C);
+    [x] Converter a temperatura para Farenheit (°F);
+    [x] Mostrar resultado no console.
+        
