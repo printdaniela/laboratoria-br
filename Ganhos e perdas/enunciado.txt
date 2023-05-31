@@ -1,0 +1,9 @@
+## Exercício 3
+- Crie um programa que peça os ingressos, os custos e o % de impostos, e calcule o ganho depois de impostos. Deve imprimir o resultado no site com o símbolo $ na frente.
+
+###   Tarefas
+    [x] Criar um arquivo HTML;
+    [x] Criar um arquivo JS;
+    [x] Fazer a estrutura HTML da página;
+    [x] Perguntar  as entradas, saídas e porcentagem de importos;
+    [x] Mostrar a renda líquida na página web.
