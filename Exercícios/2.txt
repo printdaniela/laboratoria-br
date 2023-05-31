@@ -1,0 +1,35 @@
+Imagine que você saiu para comer com as suas quatro melhores amigas e o valor total da conta foi de 50 reais (lembrando que você deve adicionar os 10% da taxa de serviço). Vocês querem dividir a conta igualmente entre as cinco e você vai criar um programa para realizar essa tarefa.
+
+O exercício inclui um boilerplate (modelo) que já inclui uma função (restaurantBill), que receberá um argumento (bill) com o valor total da conta sem contar a taxa de serviço (um número) e se espera que o retorno seja uma string com a quantidade que deve ser paga por cada uma, já incluindo os 10% da taxa de serviço (e incluindo, também, o símbolo de dólar).
+
+O boilerplate (modelo):
+
+const restaurantBill = (bill) => {
+  const tax = /* ??? */
+
+  /* ??? */
+
+  return /* ??? */
+};
+
+Siga as etapas abaixo para completar a implementação da função restaurantBill.
+
+Atribua o resultado da multiplicação bill por 10% à variável tax (que significa taxa/tributo em inglês). Dica: 10% em decimal se escreve 0.1.
+Crie uma variável chamada total e atribua à ela o resultado da soma de bill mais tax.
+Retorne o valor que cada uma deve pagar (total dividido por 5), com o símbolo $ na frente (exemplo: $11). Dica: pode usar concatenação de strings (ou string literals) para criar uma string com o número e o símbolo $ na frente.
+
+Exemplo:
+const output = restaurantBill(50);
+console.log(output); // --> '$11'
+
+##Código
+
+const restaurantBill = (bill) => {
+  const tax = bill * 0.1;
+
+  const total = bill + tax;
+
+  return `$${total / 5}`;
+};
+
+module.exports = restaurantBill;

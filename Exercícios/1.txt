@@ -1,0 +1,38 @@
+Neste exercício vamos nos concentrar em atribuir valores a variáveis. O exercício já inclui um boilerplate (modelo), com uma função, dentro da qual você terá que substituir os comentários /* ??? */ por expressões que produzam o valor que queremos armazenar (atribuir) na variável correspondente.
+
+O boilerplate (modelo):
+
+const coinConvert = (dollars) => {
+  // Atribuir o valor equivalente em soles
+  const soles = /* ??? */;
+
+  // Atribuir o valor equivalente em pesos mexicanos
+  const pesosMexicanos = /* ??? */;
+
+  // Atribuir o valor equivalente em pesos chilenos
+  const pesosChilenos = /* ??? */;
+
+  return [soles, pesosMexicanos, pesosChilenos];
+};
+
+A função do exercício se chama coinConvert e irá nos permitir converter uma quantidade de dólares em 3 moedas diferentes: soles, pesos mexicanos e pesos chilenos.
+
+Está função irá receber apenas um argumento (dollars), que é um número que representa um valor em dólares e irá retornar um array com três valores: a quantidade em soles, pesos mexicanos e pesos chilenos. Por enquanto, não precisamos nos preocupar com a função em si ou como retornar um array, o boilerplate, já está fazendo isso. Você deve se concentrar em usar a variável dollars junto com a operação para criar os valores que queremos atribuir às variáveis soles, pesosMexicanos e pesosChilenos.
+
+Utilize as seguintes taxas de câmbio:
+
+1 dólar = 3.25 soles
+1 dólar = 18 pesos mexicanos
+1 dólar = 660 pesos chilenos
+
+##Código
+
+const coinConvert = (dollars) => {
+  const soles = dollars * 3.25;
+  const pesosMexicanos = dollars * 18;
+  const pesosChilenos = dollars * 660;
+
+  return [soles, pesosMexicanos, pesosChilenos];
+};
+
+module.exports = coinConvert;

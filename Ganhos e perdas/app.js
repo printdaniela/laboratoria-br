@@ -9,6 +9,7 @@ let netIncome = grossProfit - tax;
 // mostrar na página web
 
 document.write("Sua renda líquida é de $" + netIncome);
+score
 
 
 
