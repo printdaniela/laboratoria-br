@@ -1,0 +1,63 @@
+Don Norman - cunhador do termo UX 1995
+- é como experiencia o mundo, serviço, um app, é um sistema.
+
+**O que é UX?**
+    UX = User Experience são todas as experiências que vive/experimenta uma pessoa ao utilizar um produto. Uma cadeira, uma mesa e um computador, todos têm uma experiência de uso.
+
+    Uma página web, um aplicativo ou qualquer produto digital também possui experiências distintas para o usuário. Estas experiências nem sempre são iguais. Em muitos casos, podem variar dependendo do contexto em que são usados. Por exemplo, a experiência de uso do YouTube pode variar dependendo da velocidade de conexão com a internet que estivermos usando, ou de publicidades que aparecem antes ou durante a execução do conteúdo que quisermos ver.
+
+**O que é UX Design?**
+    UX Design é o trabalho dos profissionais "UX Designers". É o processo mediante o qual se projetam as experiências que viverá um usuário ao utilizar um produto.
+
+    *Definição formal de UX Design
+    O processo criativo e analítico para determinar qual e como será uma página web, um aplicativo, um software ou dispositivo, tendo em conta sempre as necessidades, desejos e objetivos dos usuários. Mas sem deixar de lado as metas dos negócios.
+
+        *Defini~ção favorita da Laboratória
+            processo design para resolver as necessidades de nossos usuários, dando-lhes uma experiência menos confusa e mais amigável possível.
+                Palavras-chave: RESOLVER NECESSIDADES e EXPERIENCIA AMIGAVEL
+
+**PROCESSO DE DESIGN UX**
+4 etapas:
+
+    1. DESCOBRIMENTO
+        - Quando entendemos quem são nossos usuários e quais sao suas necessidades;
+          Devemos conhecer o usuário profundamente, seu comportamento, aspirações, motivações e necessidades. Devemos entender como se sentem com a experiência atual que buscamos melhorar com nosso produto e desenvolver empatia por eles. Para isso, os UX Designers aplicam algumas ferramentas essenciais: 
+            - entrevistas, dinamicas de observação,______, entre outras pesquisas alternativas presentes no mercado
+    2. DEFINIÇÃO
+        - Quando começamos a delimitar e priorizar quais problemas queremos resolver para o cliente;
+        A regra desta etapa é DELIMITAR, definindo os ARQUETIPOS (user personas)- uma representação do usuário que incorpora seus objetivos, necessidades e interesses. Esta ferramenta é útil para personificar os usuários e colocá-los no centro do process, também valida o problema.
+
+    3. PROTOTIPO
+        - Quando projetamos e prototipamos as possíveis soluções e testamos com usuários reais;
+        Desenhar e provar as soluções. Nesta etapa, usa-se a metodologia LEAN UX, para validar soluções que funcionam e descartar as que não antes de começar a construir um sistema.
+        Um prototipo é uma simulação de um produto digital, seu propósito é testar antes de fazer grandes investimentos financeiros - Segundo Google Ventures, tidp pode ser testado em uma semana;
+        LEAN UX - consiste num ciclo de criação de teste com usuarios e ajuste de protótipos. 
+        Quem desenha os protótipos são os UX Designers, através de site maps e fluxogramas; Assim como os UI Designers, que vao definir parametros como cores, botoes de função, tipografia, efeitos visuais, etc.
+        Depois de fazer o esboço do site, mostrar aos usuários e coletar seus feedbacks, podemos fazer ajustes e passar a cruar protótipos digitais (wireframes). Através dele, podemos simular toda experiência de navegação através de ferramentas clicáveis, como INVISION.
+        Finalmente, os prototipos de maior fidelidade são os que já incluem o design visual da plataforma, parecendo exatamente igual ao produto final. Podem estar em MOCKUPS ou em versão básica já codificada.
+
+        Retornamos aos usuários, 
+        1º para MELHORAR A ARQUITETURA;
+        2º para validar se estamos PRIORIZANDO FUNCIONALIDADES corretas.
+        Lembrando que cada funcionalidade adicional é mais tempo e dinheiro antes de poder liberar ao mercado.
+
+        Com quantos usuários devemos testar?
+        5 bastam para dectar mais de 80% dos possíveis problemas de usabilidade em uma plataforma. O ideal é rodar muitos pequenos testes com não mais de 5 usuários.
+
+
+    4. ENTREGA
+        - Quando definimos qual das soluções que testamos é a melhor e passamos para a equipe de disign;
+        Definir qual a primeira versão do produto a ser codificado e lançado ao mercado, o chamado PRODUTO MINIMO VIAVEL (MVP)
+
+
+
+Por que estamos aprendendo UX?
+Usualmente vamos querer que os usuários de nossos produtos (digitais ou físicos) estejam felizes quando consomem o que ofertamos.
+
+Sentar em uma cadeira ultra confortável ou em um banco de madeira? Comprar em um Starbucks ou em uma cafeteria local? Usar Facebook ou Myspace?
+
+A experiência ao usar nossos produtos é diretamente proporcional ao seu consumo.
+
+Ao ter uma melhor UX teremos mais consumo.
+
+E vice versa.

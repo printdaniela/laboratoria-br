@@ -1,0 +1,40 @@
+ETAPAS
+    1. Desenho/projeto da experiência
+        Define-se o que se quer criar;
+
+        **O que faz um UX Designer?**
+            Observam e tratam diretamente com o usuário/cliente, porque precisam compreender quais são seus problemas e necessidades (dores). Define a arquitetura de informação do produto - como o usuário navega pela plataforma e como alcançam os objetivos. Também examinam a concorrência, quais vantagens e desvantagens de soluçãos já existentes, pois assim ele se diferencia e destaca do que há no mercado. 
+            Entregam uma estratégia de desenho como wireframes, que sao esboços em p&b; Protótipos de baixa e média afinidade; Diagrama de fluxo de como o usuario vai interagir e; Mapas de site com informações bem organizadas.
+        **O que faz um UI Designer?**
+            Ficam encarregados de transformar os wireframes e protótipos em uma interface de alta fidelidade, pois já inclui todo aspécto visual, elementos interativos que fornecem a experiencia desejada - cores, tipografia, espaços, hierarquia - de modo refinado. Sendo assim, ambos os profissionais precisam trabalhar juntos, alinhados.
+
+    2. Desenvolvimento
+        Controi-se o produto;
+        **Front-End**
+        Este pega a parte visual da equipe de design e a transforma num produto que pode ser visto atraves de um navegador. Tudo o que é possivel ver numa página web é desenvolvido pelo desenvolvedor front-end. É cada vez mais comum ver um perfil profissional que mescla o papel de design UI e front-end, chamado UI Developer.
+        **Back-End**
+        Se encarrega do que não se vê, porém é essencial para que funcione, toda a lógica por tras do produto, processa e entrega informações completas ao usuário, sendo como o coração da plataforma.
+
+        *Full Stack*
+        Profissional que reune habilidades de front e back-end
+
+    3. Crescimento
+        _Marketing do produto, atração de clientes;_
+        As empresas sonham com uma curva de crescimento ideal, chamada Hockey Stick Forecast (formato de um bastão de hockey mesmo). Mas ao olhar detalhadamente, a curva de crescimento não é linear, ha oscilações (tenues ou abruptas) no caminho. O crescimento vem mesmo após o "Product market fit" (ajuste de mercado do produto), momento em que se descobre um modelo lucrativo para adquirir usuários e convertê-los em clientes.
+
+        **O que faz um Growth Hacker?**
+            Este modelo é alcançado aplicando uma série de táticas/hacks que são totalmente diferentes das que são ensinadas no marketing tradicional - chamadas técnicas de "groth hacking". Este profissional analisa o marketing final do seu produto: (AQUISIÇÃO) quantas pessoas alcançam seu site; (ATIVAÇÃO) se convertem em clientes; (RETENÇÃO) quantos se tornam recorrentes; quantos deles trazem amigos e conhecidos. Demanda muita experimentação e, com dados em mãos, escalam o que funcionou.
+
+        **O que faz um Product Manager?**
+            Principal responsável pelo êxito do produto, se envolve a nível estratégico e tático, define a visao e estartégia do produto e possui todo roteiro de implementação. Além disso, fica responsável por sua execução, estabelece as prioridades do dia a dia e elimina os entraves. Faz constantemente testes de qualidade de produto para acompanhar os mínimos detalhes. Eles definem os KPI's e o progresso do produto, analisa resultados pra maximizar os avanços. Também, precisa conhecer produndamente os usuários finais, o cliente, o mercado e a concorrencia. Se assegura de trabalhar lado a lado com a equipe de UX e Growth hacker para desenhar um produto que os usuários realmente necessitem.
+            o PM também entende linguagem técnica e conhece afundo processos e ferramentas de desenvolvimento Ágil para lidar com a equipe de desenvolvimento e ser capaz de manter-se a frente todo tempo. Analogia: PM é desde o CEO ao faxineiro do produto.
+
+Ha outros profissionais que executam papeis necessários na equipe 1, como copy writers, storytellers, arquitetos de informação, mais designers, pesquisadores, etc. Na 2, também podem ser necessários expertes em Q.A.; base de dados, servidores, integração de sistemas, arquitetura de tecnologia, etc; No 3, expecialistas em SEO, redes sociais, publicidade, etc.
+
+O processo não é linear, mas ciclico.
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+#User Interface Design vs User Experience Design
+Para entender a diferença, a similaridade e o relacionamento entre a interface do usuário e a experiência do usuário, leia o seguinte artigo: UX vs UI.
+
+Depois de ler este artigo, tente responder às seguintes perguntas:
+
+O que é UX e o que é UI?
+Qual é a relação entre o UX e UI Design?
+
+
+Sobre as diferenças de personalidade entre UI e UX
+UI - artistically minded with the technical element
+UX - socially minded with an analytical element
+
+UI - mentalidade artística com o elemento técnico
+UX - mentalidade social com elemento analítico
+
+------
+
+ O autor Golden Krishna no livro The best interface is not interface nos deixa esses termos comuns usados em UX e UI para destacar que são termos diferentes.
+
+UI
+Navegação, sub-navegação, menus, pop, botões, links, janelas, cantos arredondados, sombreamento, mensagens de erro, alertas, atualizações, caixas de seleção, campos de senha, campos de pesquisa, entradas de texto, seletores do tipo radio, áreas de texto, estados pressionados, estados de seleção, banners, vídeos incorporados, animações de rolagem, deslizar, cliques, iconografia, cores, listas, slideshows, texto alternativo, logotipos, avisos, gradientes, pop-ups, carrosséis, OK/Cancelar, etc, etc, etc.
+
+UX
+Pessoas, felicidade, resolução de problemas, entender necessidades, amor, eficiência, entretenimento, prazer, satisfação, sorrisos, alma, calor, personalidade, alegria, satisfação, gratificação, excitação, euforia, conveniência, eficiência, etc, etc, etc.
